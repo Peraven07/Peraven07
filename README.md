@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Peraven07
-- 👀 I’m interested in soccer and coding 
+- 👀 interested with passion
 - 🌱 Degree in comptuter science majoring in data science
 - 💞️ I’m working as a fullstack Web Development
 - 📫 How to reach me through email : peravensm@gmail.com
